@@ -339,7 +339,7 @@ public class lab1exeption {
                     if (num > largest) {
                         largest = num;
                     } else if (num < smallest) {
-                        smallest = number;
+                        smallest = num;
                     }
                 }
             } while (stop != 'y');
